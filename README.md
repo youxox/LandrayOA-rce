@@ -11,7 +11,5 @@
 # 示例📄
 ![p.png](img.jpg)
 
-# Author✨
-<img src="pic2.jpg" width="100px;">
 
 
