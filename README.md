@@ -6,7 +6,7 @@
   目前支持 蓝凌OA treexml.tmpl 远程命令执行漏洞检测
 
 # 帮助🧾
-![help.png](help.png)
+> python3 poc.py -h
 
 # 示例📄
 ![p.png](img.jpg)
